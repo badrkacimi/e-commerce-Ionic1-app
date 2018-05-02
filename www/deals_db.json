@@ -1,0 +1,33 @@
+{
+  "products":[
+    {
+      "id": 1,
+      "code": "BACK TO School",
+      "description": "Plusieurs années d'expérience Découvrez, vous aussi, ce qui fait notre différence",
+      "name": "Preparation au concours 2017 !!!!",
+      "expiration_date": "01/09/2017",
+      "picture": "./img/sample-images/deals/Deals1-4.1.png"
+    }, {
+      "id": 2,
+      "code": "PRIMOSFEDILEO",
+      "description": " Pain spécial, spécialité panée au poulet, fromage cheddar, salade, tomate et sauces aux choix. ",
+      "name": "DELICE CHICKEN",
+      "expiration_date": "07/28/2017",
+      "picture": "./img/sample-images/deals/Deals2-4.1.png"
+    }, {
+      "id": 3,
+      "code": "INWIFEDILEO",
+      "description": "Promotion pour toi grace au partenariat entre inwi et CarteFedileo",
+      "name": "KAYN M3A M3AMEN",
+      "expiration_date": "09/28/2017",
+      "picture": "./img/sample-images/deals/Deals3-4.1.png"
+    }, {
+      "id": 4,
+      "code": "TACOSFEDILEO",
+      "description": "De vraies spécialités tout droit importées de LYON",
+      "name": "TACOSSA",
+      "expiration_date": "08/28/2017",
+      "picture": "./img/sample-images/deals/Deals4-4.1.png"
+    }
+  ]
+}

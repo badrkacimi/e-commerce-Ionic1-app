@@ -1,0 +1,26 @@
+{
+  "products":[
+    {
+      "id": 1,
+      "picture": "./img/sample-images/real-state/RealState1-64.25.png",
+      "address": "FKIH Ben Salh, Maroc",
+      "price": "340,000 DH",
+      "bedrooms": 3,
+      "bathrooms": 2
+    }, {
+      "id": 3,
+      "picture": "./img/sample-images/real-state/RealState3-64.25.png",
+      "address": "Meknes, Maroc",
+      "price": "400,000 DH",
+      "bedrooms": 4,
+      "bathrooms": 2
+    }, {
+      "id": 2,
+      "picture": "./img/sample-images/real-state/RealState2-64.25.png",
+      "address": "Hay Riad, Rabat",
+      "price": "1,150,000 DH",
+      "bedrooms": 4,
+      "bathrooms": 2
+    }
+              ]
+}

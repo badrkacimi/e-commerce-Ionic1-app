@@ -1,0 +1,48 @@
+{
+  "products":[
+    {
+      "id": 1,
+      "picture": "./img/sample-images/travel/Travel1-64.47.png",
+      "icon": "./img/sample-images/travel/TravelIcon1.png",
+      "name": "Chefchaouen",
+      "category": "CasaVoyages",
+      "description": "Les nuances de bleu s'étalent sur tous les murs !!!",
+      "rating": 4.8,
+      "address": "Chefchaouen, Maroc.",
+      "reviews": [
+        {
+          "comment": "Il y a mille et une façons de le vivre. Magnifiquement perché sous les pics premiers du Rif, Chefchaouen est Maghnifique"
+        }
+      ]
+    }, {
+      "id": 2,
+      "picture": "./img/sample-images/travel/Travel2-64.47.png",
+      "icon": "./img/sample-images/travel/TravelIcon2.png",
+      "name": "Casablanca",
+      "category": "CasaVoyages",
+      "description": " Envie de découvrir Casablanca ? Il y a mille et une façons de le vivre. En quelques années Casablanca est passé d'une petite ville à l'une des grandes villes",
+      "rating": 4.7,
+      "address": "Casablanca, Maroc",
+      "reviews": [
+        {
+          "comment": "Belle ville !!!"
+        }
+      ]
+    }, {
+      "id": 3,
+      "picture": "./img/sample-images/travel/Travel3-64.47.png",
+      "icon": "./img/sample-images/travel/TravelIcon3.png",
+      "name": "Jamaa Lfna",
+      "category": "Booking.com",
+      "description": "Marrakech connue sous le nom de Perle du Sud, est une ville du Maroc au pied des montagnes de l'Atlas. Marrakech, c'est la 4ème grande ville du Maroc",
+      "rating": 3.5,
+      "address": "Marrakech, Maroc",
+      "reviews": [
+        {
+          "comment": "It's warm and relaxed atmosphere, making it a favorite haunt for tourists, businessmen and cultural figures."
+        }
+       
+      ]
+    }
+  ]
+}

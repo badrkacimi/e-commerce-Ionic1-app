@@ -1,0 +1,10 @@
+{
+  "name": "pcf",
+  "app_id": "",
+  "type": "ionic1",
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*",
+    "scss/**/*"
+  ]
+}

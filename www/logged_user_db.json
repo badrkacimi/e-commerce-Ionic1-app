@@ -1,0 +1,138 @@
+{
+  "user":{
+    "id": 1,
+    "first_name": "BADR",
+    "last_name": "KACIMI",
+    "password": "123456789",
+    "email": "badrvkacimi@gmail.com",
+    "picture": "https://scontent-mrs1-1.xx.fbcdn.net/v/t1.0-9/20376187_1543889508966566_3444530396433938952_n.jpg?oh=693bf346ecfb75468362c578eb1db759&oe=5A35B7D4",
+    "orders": [
+      {
+        "id": 1,
+        "products": [
+          {
+            "id": "4"
+          }
+        ],
+        "date": "01/08/2017",
+        "status": "Paye"
+      },
+      {
+        "id": 2,
+        "products": [
+          {
+            "id": "1"
+          },
+          {
+            "id": "3"
+          }
+        ],
+        "date": "07/19/2017",
+        "status": "Livre"
+      },
+      {
+        "id": 3,
+        "products": [
+          {
+            "id": "2"
+          },
+          {
+            "id": "7"
+          },
+          {
+            "id": "4"
+          }
+        ],
+        "date": "05/20/2017",
+        "status": "Annule"
+      }
+    ],
+    "lists": [
+      {
+        "id": 1,
+        "name": "morbi a",
+        "category": "realstate",
+        "tags": "tag3",
+        "creation_date": "09/28/2017",
+        "products": [
+          "4",
+          "8",
+          "6",
+          "2"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "sit amet",
+        "category": "food",
+        "tags": "tag1",
+        "creation_date": "07/04/2017",
+        "products": [
+          "3",
+          "4",
+          "1",
+          "6",
+          "7"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "aliquet pulvinar sed",
+        "category": "realstate",
+        "tags": "tag2",
+        "creation_date": "02/01/2017",
+        "products": [
+          "1"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "sollicitudin ut suscipit a feugiat",
+        "category": "fashion",
+        "tags": "tag3",
+        "creation_date": "06/12/2015",
+        "products": [
+          "6"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "lacus",
+        "category": "deals",
+        "tags": "tag1",
+        "creation_date": "11/24/2015",
+        "products": [
+          "4",
+          "5"
+        ]
+      }
+    ],
+    "shipping_addresses": [
+      {
+        "full_name": "BADR KACIMI",
+        "street": "MoulayAli Cherif",
+        "city": "Errachidia",
+        "state": "Errachidia",
+        "postal_code": "52000",
+        "phone": "+2126034302482"
+      },
+      {
+        "full_name": "Yadine Nada",
+        "street": "Hay Karima",
+        "city": "Sale",
+        "state": "Rabat-sale Zmour z3ir",
+        "postal_code": "53000",
+        "phone": "+2126789873"
+      }
+    ],
+    "credit_cards": [
+      {
+        "full_name": "BADR KACIMI",
+        "number": "**** **** **** 4295",
+        "type": "visa",
+        "ccv": 556,
+        "expiration": "11/18/2018"
+      }
+    ]
+  }
+}
