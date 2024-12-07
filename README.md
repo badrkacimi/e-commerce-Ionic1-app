@@ -57,12 +57,12 @@ Replace ios with android for Android emulation.
 
 ## Project Structure
 
-www/: Main directory containing the application's front-end code.
-scss/: Stylesheets written in SASS.
-resources/: Icons and splash screens for various platforms.
-hooks/: Custom scripts to be executed at specific stages of the build process.
-gulp-tasks/: Gulp tasks for automating development workflows.
-bower.json: Bower configuration file for front-end dependencies.
-package.json: Node.js configuration file for managing dependencies and scripts.
-config.xml: Configuration file for Cordova settings.
-ionic.config.json: Ionic project configuration file.
+- www/: Main directory containing the application's front-end code.
+- scss/: Stylesheets written in SASS.
+- resources/: Icons and splash screens for various platforms.
+- hooks/: Custom scripts to be executed at specific stages of the build process.
+- gulp-tasks/: Gulp tasks for automating development workflows.
+- bower.json: Bower configuration file for front-end dependencies.
+- package.json: Node.js configuration file for managing dependencies and scripts.
+- config.xml: Configuration file for Cordova settings.
+- ionic.config.json: Ionic project configuration file.
